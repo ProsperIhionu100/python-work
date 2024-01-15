@@ -1,0 +1,11 @@
+create a program to read and write into a text file;
+the program should prompt the user to enter the name of a file.
+
+if the file exists, it should let the know and allow the user anme
+changes into the file by adding contents or changing words in the file.
+
+if the file doesn't exist itt should create the and allow the user to be able to write into the file.
+and also be able to make changes to a file. 
+
+before a userr is able to make changes to a file they should 
+see the content of the file.

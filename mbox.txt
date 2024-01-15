@@ -1,0 +1,7 @@
+append mode, This would open up the file and apped shanges(read, write)
+
+  write mode. this allows to write to a file. if the file already contains conten,it'll overwrite.
+it creates a file if it doesn't exist
+
+  read mode. this is just used to read the file 
+this is default mode
